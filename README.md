@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ilyas Dahir Houssien
+#  Hi, I'm Ilyas Dahir Houssien
 
 ### Junior Full-Stack Developer | Java • Spring Boot • Angular . Vue.js
 
