@@ -15,7 +15,7 @@
 
 ### 🔗 Links
 
-[🌐 Portfolio](https://ilyas403.github.io/portfolio/) · [💼 LinkedIn](https://www.linkedin.com/in/ilyas-dahir-houssein-337bba283/?locale=fr) · [📄 CV](YOUR_CV_URL)
+[🌐 Portfolio](https://ilyas403.github.io/portfolio/) · [💼 LinkedIn](https://www.linkedin.com/in/ilyas-dahir-houssein-337bba283/?locale=fr) 
 
 ---
 
